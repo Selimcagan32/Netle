@@ -1,0 +1,12 @@
+# Model dosyaları (script tarafından yeniden oluşturuluyor)
+models/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Test görüntüleri ve çıktıları
+*.jpg
+*.png
